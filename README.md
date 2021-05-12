@@ -8,7 +8,7 @@ Pocket is a minimal state manager and push state router mushed together with som
 ## Poor Man's `create-react-app`
 
 ```sh
-git clone https://github.com/whaaaley/pocket-demo.git && rm -rf .git && npm i
+$ git clone https://github.com/whaaaley/pocket-demo.git && rm -rf .git && npm i
 ```
 
 ## Getting Started
