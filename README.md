@@ -5,6 +5,12 @@
 
 Pocket is a minimal state manager and push state router mushed together with some sugar on top. Use it together with your favorite view library.
 
+## Poor Man's `create-react-app`
+
+```sh
+git clone https://github.com/whaaaley/pocket-demo.git && rm -rf .git && npm i
+```
+
 ## Getting Started
 
 Although not strictly nessecary, this framework was built with [Superfine](https://github.com/jorgebucaran/superfine) in mind.
