@@ -1,11 +1,5 @@
 
-<div style="display: grid; grid: 1fr / 144px 1fr; gap: 36px; margin: 0 0 36px">
-  <img src="logo.png">
-  <div style="margin: auto 0">
-    <div style="font: 36px/1 sans-serif;">pocket <sup style="font: 600 12px/1 sans-serif; color: #ed6981;">(beta)</sup></div>
-    <span>A micro framework for pocket-sized apps.</span>
-  </div>
-</div>
+<img style="margin: 0 0 36px" src="banner.png">
 
 ## Introduction
 
